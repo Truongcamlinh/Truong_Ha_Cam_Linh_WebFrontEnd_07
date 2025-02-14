@@ -1,0 +1,44 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    border-left:3px solid #ff6116;
+    padding-left:  5px;
+    margin: 10px;
+}
+h2{
+    font-size: 25px;
+}
+.container img{
+    padding-left: 10px;
+    width: 30%;
+    -webkit-mask-image: linear-gradient(to bottom, black 50%, transparent);
+    mask-image: linear-gradient(to bottom
+    , black 50%, transparent);
+}
+
+.text{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 393px;
+    left: 35px;
+
+}
+h3{
+    font-size: 20px;
+}
+.cm{
+    margin-left: 10px;
+    font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+}
+hr{
+    color: #eaeaea;
+    width: 50%;
+    margin: 10px;
+}
